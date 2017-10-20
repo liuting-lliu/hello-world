@@ -1,0 +1,8 @@
+E:\tempproject\Clock\Clock\bin\Debug\Clock.exe.config
+E:\tempproject\Clock\Clock\bin\Debug\Clock.exe
+E:\tempproject\Clock\Clock\bin\Debug\Clock.pdb
+E:\tempproject\Clock\Clock\obj\Debug\Clock.Form1.resources
+E:\tempproject\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+E:\tempproject\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+E:\tempproject\Clock\Clock\obj\Debug\Clock.exe
+E:\tempproject\Clock\Clock\obj\Debug\Clock.pdb
